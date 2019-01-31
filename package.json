@@ -1,0 +1,12 @@
+{
+    "app_name": "RUNNING",
+    "main": "index.html",
+    "name": "RUNNING",
+    "webkit": {},
+    "window": {
+        "exe_icon": "000.png",
+        "fullscreen": true,
+        "id": "RUNNING",
+        "title": "RUNNING"
+    }
+}
